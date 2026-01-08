@@ -1,15 +1,15 @@
 const profileData = {
   title: "Resume",
-  name: "Vipin Yadav",
-  sub_title: "Senior Software Engineer",
+  name: "Daniel Fechner",
+  sub_title: "IT-Koordinator",
   logoURL: "assets/images/dp.jpg",
   about: {
     intro:
       "Senior Software Engineer with 7+ years of experience building high-performance web apps using React, TypeScript, and modern ES6+ practices. Skilled in leading projects, creating reusable components, and implementing real-time features like chat and live tracking with WebSockets and Canvas. Passionate about clean, scalable code, intuitive UIs, and mentoring teams for engineering excellence.",
     contact: {
-      email: "imvpn22@gmail.com",
-      phone: "+91-9919716378",
-      address: "Bangalore, IN",
+      email: "kontakt@fechner-daniel.de",
+      phone: "+4917647131606",
+      address: "Pfarrgasse 14, 06268 Obhausen",
     },
   },
   links: [
