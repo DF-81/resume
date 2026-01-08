@@ -5,7 +5,7 @@ const profileData = {
   logoURL: "assets/images/dp.jpg",
   about: {
     intro:
-      "Senior Software Engineer with 7+ years of experience building high-performance web apps using React, TypeScript, and modern ES6+ practices. Skilled in leading projects, creating reusable components, and implementing real-time features like chat and live tracking with WebSockets and Canvas. Passionate about clean, scalable code, intuitive UIs, and mentoring teams for engineering excellence.",
+      "IT-Koordinator mit über 8 Jahren Berufserfahrung in der ganzheitlichen Betreuung von IT-Landschaften im mittelständischen Handel. Verantwortlich für IT-Infrastruktur, Warenwirtschaftssysteme und E-Commerce-Plattformen. Erfahrung in der Anforderungsanalyse, Projektleitung sowie in der Koordination externer IT-Partner. Starke analytische Fähigkeiten in der Fehleranalyse und Prozessoptimierung.",
     contact: {
       email: "kontakt@fechner-daniel.de",
       phone: "+4917647131606",
@@ -15,24 +15,24 @@ const profileData = {
   links: [
     {
       title: "LinkedIn",
-      src: "https://www.linkedin.com/in/imvpn22",
+      src: "www.linkedin.com/in/danielfechner",
       iconClass: "fa-brands fa-linkedin-in",
     },
     {
       title: "Github",
-      src: "https://github.com/imvpn22",
+      src: "https://df-81.github.io/resume/",
       iconClass: "fa-brands fa-github",
     },
-    {
+    <!--{
       title: "Codepen",
       src: "https://codepen.io/imvpn22",
       iconClass: "fa-brands fa-codepen",
-    },
+    },-->
   ],
   skills: [
     {
       title: "Languages & Standards",
-      value: "HTML5, CSS3, TypeScript, JavaScript(ES6+), SCSS, Tailwind CSS",
+      value: "HTML5, CSS3, PHP, SQL, JavaScript",
     },
     {
       title: "Frameworks/Libraries",
