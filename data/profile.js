@@ -23,11 +23,11 @@ const profileData = {
       src: "https://df-81.github.io/resume/",
       iconClass: "fa-brands fa-github",
     },
-    <!--{
+    {
       title: "Codepen",
       src: "https://codepen.io/imvpn22",
       iconClass: "fa-brands fa-codepen",
-    },-->
+    },
   ],
   skills: [
     {
