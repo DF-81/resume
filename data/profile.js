@@ -2,7 +2,7 @@ const profileData = {
   title: "Lebenslauf",
   name: "Daniel Fechner",
   sub_title: "IT-Koordinator",
-  logoURL: "assets/images/dp.jpg",
+  logoURL: "assets/images/favicon/favicon.ico",
   about: {
     intro:
       "IT-Koordinator mit über 8 Jahren Berufserfahrung in der ganzheitlichen Betreuung von IT-Landschaften im mittelständischen Handel. Verantwortlich für IT-Infrastruktur, Warenwirtschaftssysteme und E-Commerce-Plattformen. Erfahrung in der Anforderungsanalyse, Projektleitung sowie in der Koordination externer IT-Partner. Starke analytische Fähigkeiten in der Fehleranalyse und Prozessoptimierung.",
@@ -23,11 +23,11 @@ const profileData = {
       src: "https://df-81.github.io/resume/",
       iconClass: "fa-brands fa-github",
     },
-    {
+    /*{
       title: "Codepen",
       src: "https://codepen.io/imvpn22",
       iconClass: "fa-brands fa-codepen",
-    },
+    },*/
   ],
   skills: [
     {
@@ -52,8 +52,8 @@ const profileData = {
   experiences: [
     {
       organization: "Holzboden-Direkt.de e.K.",
-      title: "Senior Frontend Engineer",
-      date: "July 2024 - Present",
+      title: "IT-Koordinator",
+      date: "Juli 2017 - Heute",
       details: [
         `Developed a document management system with storage, in-built editor, digital signing, and mobile WebView integration to streamline employee onboarding and compliance workflows.`,
         `Developed real-time chat, panic alerts, a custom map showing employee locations, and an in-browser document editor and signer to address specific business needs with high interactivity.`,
