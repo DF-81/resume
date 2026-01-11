@@ -1,8 +1,8 @@
 const profileData = {
   title: "Lebenslauf",
   name: "Daniel Fechner",
-  sub_title: "IT-Koordinator",
-  logoURL: "assets/images/favicon/favicon.ico",
+  sub_title: "IT-Koordinator/Manager",
+  logoURL: "assets/images/",
   about: {
     intro:
       "IT-Koordinator mit über 8 Jahren Berufserfahrung in der ganzheitlichen Betreuung einer IT-Landschaften im mittelständischen Unternehmen - Verantwortlich für IT-Infrastruktur, Warenwirtschaftssysteme und E-Commerce-Plattformen. Erfahrung in der Anforderungsanalyse, Projektleitung sowie in der Koordination externer IT-Partner. Starke analytische Fähigkeiten in der Fehleranalyse und Prozessoptimierung.",
@@ -20,7 +20,7 @@ const profileData = {
     },
     {
       title: "Github",
-      src: "https://df-81.github.io/resume/",
+      src: "https://github.com/DF-81",
       iconClass: "fa-brands fa-github",
     },
     /*{
@@ -52,13 +52,26 @@ const profileData = {
   experiences: [
     {
       organization: "Holzboden-Direkt.de e.K.",
-      title: "IT-Koordinator",
+      title: "IT-Koordinator/Manager",
       date: "Juli 2017 - Heute",
       details: [
-        `Developed a document management system with storage, in-built editor, digital signing, and mobile WebView integration to streamline employee onboarding and compliance workflows.`,
-        `Developed real-time chat, panic alerts, a custom map showing employee locations, and an in-browser document editor and signer to address specific business needs with high interactivity.`,
-        `Built scalable features with React and TypeScript, optimized UI/UX, and improved performance using custom component, hooks and utility libraries.`,
-        `Designed micro frontend solutions and implemented dynamic data filtering logic to support modular development and efficient data access. Led cross-functional collaboration, promoted clean, maintainable code using ES6+ and TypeScript best practices, and drove continuous improvement.`,
+        `**IT-Infrastruktur & Systemlandschaft**
+      - Ganzheitliche Betreuung und Weiterentwicklung der IT-Infrastruktur
+      - Fehleranalyse und eigenständige Störungsbehebung
+      - Koordination externer IT-Dienstleister (Hosting, Entwicklung, SEA)
+      `,
+
+      `**Warenwirtschaft & ERP**
+      - Projektleitung bei der Einführung eines neuen Warenwirtschaftssystems
+      - Erstellung des Lastenhefts und Abstimmung mit der Geschäftsleitung
+      - Budgetplanung, Steuerung und Begleitung bis zum Go-Live
+      `,
+
+      `**E-Commerce & Online-Shop**
+      - Technische und organisatorische Verantwortung für den Online-Shop
+      - Migration von Magento 1 auf Magento 2 in Zusammenarbeit mit externen Entwicklern
+      - Anforderungsmanagement und Qualitätssicherung
+      `,
       ],
     },
     {
