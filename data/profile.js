@@ -130,7 +130,7 @@ const profileData = {
     {
       desc: `Qualitätsmanagement-Auditor QMA-TÜV.
       (<a target='_blank' rel='noreferrer' href='https://www.tuvsud.com/de-de/store/akademie/seminare-management/qualitaetsmanagement/modulare-ausbildung/1111106'>https://www.tuvsud.com/de-de</a>)`,
-      date: "September - November 2014",
+      duration: "September - November 2014",
     },
   ],
   events: [],
