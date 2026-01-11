@@ -5,7 +5,7 @@ const profileData = {
   logoURL: "assets/images/favicon/favicon.ico",
   about: {
     intro:
-      "IT-Koordinator mit über 8 Jahren Berufserfahrung in der ganzheitlichen Betreuung von IT-Landschaften im mittelständischen Handel. Verantwortlich für IT-Infrastruktur, Warenwirtschaftssysteme und E-Commerce-Plattformen. Erfahrung in der Anforderungsanalyse, Projektleitung sowie in der Koordination externer IT-Partner. Starke analytische Fähigkeiten in der Fehleranalyse und Prozessoptimierung.",
+      "IT-Koordinator mit über 8 Jahren Berufserfahrung in der ganzheitlichen Betreuung einer IT-Landschaften im mittelständischen Unternehmen - Verantwortlich für IT-Infrastruktur, Warenwirtschaftssysteme und E-Commerce-Plattformen. Erfahrung in der Anforderungsanalyse, Projektleitung sowie in der Koordination externer IT-Partner. Starke analytische Fähigkeiten in der Fehleranalyse und Prozessoptimierung.",
     contact: {
       email: "kontakt@fechner-daniel.de",
       phone: "+4917647131606",
@@ -32,21 +32,21 @@ const profileData = {
   skills: [
     {
       title: "Languages & Standards",
-      value: "HTML, CSS3, PHP, SQL, JavaScript",
+      value: "HTML, CSS3, PHP, SQL, JavaScript, JSON",
     },
     {
-      title: "Frameworks/Libraries",
+      title: "Tools & Platforms",
       value:
-        "ReactJS, React-Native, Redux, MobX, NodeJS-Express, NextJS, Angular, Next.js, React Query",
+        "Git, GitHub, Postman, Asana, Magento 1&2, WordPress",
     },
-    {
+    /*{
       title: "Maps & Visualization",
       value: "Canvas API, Leaflet.js, D3.js, Chart.js, HighCharts",
-    },
+    },*/
     {
       title: "Others",
       value:
-        "Micro Frontend Architecture, Webpack, Storybook, Git, Jenkins, AWS, WebSockets",
+        "Office Tools, Adobe Creativesuite, Uberall, Hubspot, Doofinder ...",
     },
   ],
   experiences: [
