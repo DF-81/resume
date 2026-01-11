@@ -55,23 +55,18 @@ const profileData = {
       title: "IT-Koordinator/Manager",
       date: "Juli 2017 - Heute",
       details: [
-        `**IT-Infrastruktur & Systemlandschaft**
-      - Ganzheitliche Betreuung und Weiterentwicklung der IT-Infrastruktur
-      - Fehleranalyse und eigenständige Störungsbehebung
-      - Koordination externer IT-Dienstleister (Hosting, Entwicklung, SEA)
-      `,
+      `**IT-Infrastruktur & Systemlandschaft**`,
+		`- Betreuung und Weiterentwicklung der IT-Infrastruktur`,
+		`- Fehleranalyse und Störungsbehebung`,
+		`- Koordination externer IT-Partner`,
 
-      `**Warenwirtschaft & ERP**
-      - Projektleitung bei der Einführung eines neuen Warenwirtschaftssystems
-      - Erstellung des Lastenhefts und Abstimmung mit der Geschäftsleitung
-      - Budgetplanung, Steuerung und Begleitung bis zum Go-Live
-      `,
+	  `**Warenwirtschaft & ERP**`,
+		`- Projektleitung bei der Einführung eines neuen Warenwirtschaftssystems`,
+		`- Lastenheft, Budgetierung und Go-Live-Begleitung`,
 
-      `**E-Commerce & Online-Shop**
-      - Technische und organisatorische Verantwortung für den Online-Shop
-      - Migration von Magento 1 auf Magento 2 in Zusammenarbeit mit externen Entwicklern
-      - Anforderungsmanagement und Qualitätssicherung
-      `,
+	  `**E-Commerce & Online-Shop**`,
+		`- Verantwortung für den Online-Shop`,
+		`- Migration von Magento 1 auf Magento 2`,
       ],
     },
     {
