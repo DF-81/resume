@@ -74,7 +74,6 @@ const profileData = {
       `,
 	 ],
     },
-   ];
     {
       organization: "Gameskraft",
       title: "Senior Software Engineer",
