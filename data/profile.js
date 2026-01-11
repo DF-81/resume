@@ -115,13 +115,13 @@ const profileData = {
   education: [
     {
       alma: "Masterstudium",
-      duration: "2010 - 2013",
+      duration: "Oktober 2010 - April 2013",
       std: "Master of Arts (Technische Redaktion und Wissenskommuniktion)",
       score: "ECTS Grade A | 91-100%",
     },
     {
       alma: "Bachelorstudium",
-      duration: "2007 - 2010",
+      duration: "Oktober 2007 - September 2010",
       std: "Bachelor of Science (Technische Betriebswirtschaft)",
       score: "ECTS Grade B | 84-91%",
     },
