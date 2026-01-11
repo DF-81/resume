@@ -55,7 +55,7 @@ const profileData = {
       title: "IT-Koordinator/Manager",
       date: "Juli 2017 - Heute",
       details: [
-      `**IT-Infrastruktur & Systemlandschaft**
+      `<b>IT-Infrastruktur & Systemlandschaft</b>
       - Ganzheitliche Betreuung und Weiterentwicklung der IT-Infrastruktur
       - Fehleranalyse und eigenständige Störungsbehebung
       - Koordination externer IT-Dienstleister (Hosting, Entwicklung, SEA)
