@@ -68,12 +68,11 @@ const profileData = {
       `,
 
       "E-Commerce & Online-Shop"
-      ` Technische und organisatorische Verantwortung für den Online-Shop`,
-      - Migration von Magento 1 auf Magento 2 in Zusammenarbeit mit externen Entwicklern
-      - Anforderungsmanagement und Qualitätssicherung
-	  - Erstellung von Kalkulationsunterlagen unter Berücksichtigung des Deckungsbeitrages
-	  - Optimnierung Datenbestand sowie kontinuierliche Datenpflege nach Vorgaben
-      `,
+      `Technische und organisatorische Verantwortung für den Online-Shop`,
+      `Migration von Magento 1 auf Magento 2 in Zusammenarbeit mit externen Entwicklern`,
+      `Anforderungsmanagement und Qualitätssicherung`,
+	  `Erstellung von Kalkulationsunterlagen unter Berücksichtigung des Deckungsbeitrages`,
+	  `Optimnierung Datenbestand sowie kontinuierliche Datenpflege nach Vorgaben`,
 	 ],
     },
     {
