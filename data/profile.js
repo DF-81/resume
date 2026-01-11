@@ -46,7 +46,7 @@ const profileData = {
     {
       title: "Others",
       value:
-        "Office Tools, Adobe Creativesuite, Uberall, Hubspot, Doofinder ...",
+        "Office Tools, Adobe Creativesuite, Uberall, Hubspot, Doofinder u.a.",
     },
   ],
   experiences: [
@@ -67,12 +67,12 @@ const profileData = {
       - Antrag Förderung, Budgetplanung, Steuerung und Begleitung bis zum Go-Live
       `,
 
-      "E-Commerce & Online-Shop",
-      `Technische und organisatorische Verantwortung für den Online-Shop`,
-      `Migration von Magento 1 auf Magento 2 in Zusammenarbeit mit externen Entwicklern`,
-      `Anforderungsmanagement und Qualitätssicherung`,
-	  `Erstellung von Kalkulationsunterlagen unter Berücksichtigung des Deckungsbeitrages`,
-	  `Optimnierung Datenbestand sowie kontinuierliche Datenpflege nach Vorgaben`,
+      `<b>Warenwirtschaft & ERP</b>
+      - Technische und organisatorische Verantwortung für den Online-Shop
+      - Migration von Magento 1 auf Magento 2 in Zusammenarbeit mit externen Entwicklern
+      - Anforderungsmanagement und Qualitätssicherung
+	  - Erstellung von Kalkulationsunterlagen unter Berücksichtigung des Deckungsbeitrages
+	  - Optimierung Datenbestand sowie kontinuierliche Datenpflege nach Vorgaben`,
 	 ],
     },
     {
@@ -114,22 +114,16 @@ const profileData = {
   projects: [],
   education: [
     {
-      alma: "FET, GKV, Haridwar",
-      duration: "2014 - 2018",
-      std: "B.Tech. (Computer Science & Engineering)",
-      score: "71.00%",
-    },
-    {
       alma: "Masterstudium",
       duration: "2011 - 2013",
-      std: "Class XI-XII (PCM)",
-      score: "89.80%",
+      std: "Master of Arts (Technische Redaktion und Wissenskommuniktion)",
+      score: "ECTS Grade A 91-100%",
     },
     {
-      alma: "Jwala Devi SVMIC, Prayagraj",
-      duration: "2010 - 2011",
-      std: "Class X (PCM)",
-      score: "73.30%",
+      alma: "Bachelorstudium",
+      duration: "2007 - 2010",
+      std: "Bachelor of Science (Technische Betriebswirtschaft)",
+      score: "ECTS Grade B 84-91%",
     },
   ],
   certifications: [
