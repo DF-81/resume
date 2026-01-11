@@ -55,20 +55,25 @@ const profileData = {
       title: "IT-Koordinator/Manager",
       date: "Juli 2017 - Heute",
       details: [
-      `**IT-Infrastruktur & Systemlandschaft**`,
-		`- Betreuung und Weiterentwicklung der IT-Infrastruktur`,
-		`- Fehleranalyse und Störungsbehebung`,
-		`- Koordination externer IT-Partner`,
+		`**IT-Infrastruktur & Systemlandschaft**
 
-	  `**Warenwirtschaft & ERP**`,
-		`- Projektleitung bei der Einführung eines neuen Warenwirtschaftssystems`,
-		`- Lastenheft, Budgetierung und Go-Live-Begleitung`,
+		- Ganzheitliche Betreuung und Weiterentwicklung der IT-Infrastruktur
+		- Analyse und Behebung von Störungen
+		- Koordination externer IT-Dienstleister
+		`,
+		`**Warenwirtschaft & ERP**
 
-	  `**E-Commerce & Online-Shop**`,
-		`- Verantwortung für den Online-Shop`,
-		`- Migration von Magento 1 auf Magento 2`,
-      ],
-    },
+		- Projektleitung bei der Einführung eines neuen Warenwirtschaftssystems
+		- Lastenheft, Budgetierung und Go-Live-Begleitung
+		`,
+		`**E-Commerce & Online-Shop**
+
+		- Verantwortung für den Online-Shop
+		- Migration von Magento 1 auf Magento 2
+		`,
+		],
+	},
+	];
     {
       organization: "Gameskraft",
       title: "Senior Software Engineer",
