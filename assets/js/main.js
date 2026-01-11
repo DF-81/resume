@@ -38,9 +38,9 @@ const setLinks = (links) => {
   });
 };
 
-const setEducation = (education) => {
+const setEducation = (ausbildung) => {
   const ul = document.querySelector("#educationList");
-  education.forEach((edu) => {
+  ausbildung.forEach((edu) => {
     const li = document.createElement("li");
 
     const eduHeader = document.createElement("div");
