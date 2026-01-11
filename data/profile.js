@@ -67,7 +67,7 @@ const profileData = {
       - Antrag Förderung, Budgetplanung, Steuerung und Begleitung bis zum Go-Live
       `,
 
-      "E-Commerce & Online-Shop"
+      "E-Commerce & Online-Shop",
       `Technische und organisatorische Verantwortung für den Online-Shop`,
       `Migration von Magento 1 auf Magento 2 in Zusammenarbeit mit externen Entwicklern`,
       `Anforderungsmanagement und Qualitätssicherung`,
@@ -80,7 +80,7 @@ const profileData = {
       title: "Mitarbeiter Buchhaltung & Controlling",
       date: "Juni 2015 - Juni 2017 (befristete Anstellung)",
       details: [
-        `Durchführung der laufenden Finanzbuchhaltung (Debitoren & Kreditoren)` unter Berücksichtigung von Kostenstellen- und Kostenartenrechnung,
+        `Durchführung der laufenden Finanzbuchhaltung (Debitoren & Kreditoren) unter Berücksichtigung von Kostenstellen- und Kostenartenrechnung`,
         `Mitwirkung bei vorbereitenden Jahresabschlussarbeiten`,
         `Erstellung betriebswirtschaftlicher Auswertungen und Kennzahlen`,
 		`Soll-Ist-Analysen zur Budget- und Kostenkontrolle`,
