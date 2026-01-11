@@ -328,6 +328,11 @@ strong {
   .profile-logo {
     margin: 0 auto;
   }
+  
+  .resume-container {
+    /* von 1rem Oben/Unten auf 1rem Oben/Unten + 0.75rem Links/Rechts */
+    padding: 1rem 0.75rem;
+  }
 
   .header-title {
     text-align: center;
