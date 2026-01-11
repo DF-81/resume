@@ -112,7 +112,7 @@ const profileData = {
     },
   ],
   projects: [],
-  Ausbildung: [
+  education: [
     {
       alma: "Masterstudium",
       duration: "2010 - 2013",
