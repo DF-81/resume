@@ -1,5 +1,5 @@
 const profileData = {
-  title: "Resume",
+  title: "Lebenslauf",
   name: "Daniel Fechner",
   sub_title: "IT-Koordinator",
   logoURL: "assets/images/dp.jpg",
@@ -15,7 +15,7 @@ const profileData = {
   links: [
     {
       title: "LinkedIn",
-      src: "www.linkedin.com/in/danielfechner",
+      src: "https://linkedin.com/in/danielfechner",
       iconClass: "fa-brands fa-linkedin-in",
     },
     {
@@ -32,7 +32,7 @@ const profileData = {
   skills: [
     {
       title: "Languages & Standards",
-      value: "HTML5, CSS3, PHP, SQL, JavaScript",
+      value: "HTML, CSS3, PHP, SQL, JavaScript",
     },
     {
       title: "Frameworks/Libraries",
@@ -51,7 +51,7 @@ const profileData = {
   ],
   experiences: [
     {
-      organization: "WrkSpot",
+      organization: "Holzboden-Direkt.de e.K.",
       title: "Senior Frontend Engineer",
       date: "July 2024 - Present",
       details: [
