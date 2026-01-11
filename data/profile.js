@@ -58,91 +58,57 @@ const profileData = {
       `<b>IT-Infrastruktur & Systemlandschaft</b>
       - Ganzheitliche Betreuung und Weiterentwicklung der IT-Infrastruktur
       - Fehleranalyse und eigenständige Störungsbehebung
-      - Koordination externer IT-Dienstleister (Hosting, Entwicklung, SEA)
+      - Koordination externer IT-Dienstleister (Hosting, Entwicklung, SEM)
       `,
 
-      `**Warenwirtschaft & ERP**
+      `<b>Warenwirtschaft & ERP</b>
       - Projektleitung bei der Einführung eines neuen Warenwirtschaftssystems
       - Erstellung des Lastenhefts und Abstimmung mit der Geschäftsleitung
-      - Budgetplanung, Steuerung und Begleitung bis zum Go-Live
+      - Antrag Förderung, Budgetplanung, Steuerung und Begleitung bis zum Go-Live
       `,
 
-      `**E-Commerce & Online-Shop**
-      - Technische und organisatorische Verantwortung für den Online-Shop
+      "E-Commerce & Online-Shop"
+      ` Technische und organisatorische Verantwortung für den Online-Shop`,
       - Migration von Magento 1 auf Magento 2 in Zusammenarbeit mit externen Entwicklern
       - Anforderungsmanagement und Qualitätssicherung
+	  - Erstellung von Kalkulationsunterlagen unter Berücksichtigung des Deckungsbeitrages
+	  - Optimnierung Datenbestand sowie kontinuierliche Datenpflege nach Vorgaben
       `,
 	 ],
     },
     {
-      organization: "Gameskraft",
-      title: "Senior Software Engineer",
-      date: "Dec 2022 - June 2024",
+      organization: "LH Halle e.V.",
+      title: "Mitarbeiter Buchhaltung & Controlling",
+      date: "Juni 2015 - Juni 2017 (befristete Anstellung)",
       details: [
-        `As part of the RummyCulture App team, worked on the development of core features like TDS summary & certificate, game join & re-join flow improvements,
-        scorecard, withdrawal flow, user referral flow, and game bubble state optimizations.
-        I ensured end-to-end responsibility, focusing on pixel-perfect UI, smooth UX, user testing, A/B experiments, cross-platform compatibility,
-        and timely delivery.`,
-        `Integrated in-house help center SDK, offering self-help features like guided app core flows and callback scheduling for users, leading to a reduction in customer call volume.`,
-        `Addressed live issues such as App crashes, JS crashes, and ANRs using Sentry and Firebase Crashlytics. Mentored juniors through knowledge-sharing and code-review sessions to ensure bug-free code and optimal performance.`,
+        `Durchführung der laufenden Finanzbuchhaltung (Debitoren & Kreditoren)` unter Berücksichtigung von Kostenstellen- und Kostenartenrechnung,
+        `Mitwirkung bei vorbereitenden Jahresabschlussarbeiten`,
+        `Erstellung betriebswirtschaftlicher Auswertungen und Kennzahlen`,
+		`Soll-Ist-Analysen zur Budget- und Kostenkontrolle`,
+		`Erzeugung von Anträgen zur Unterstützung und Verhandlung bei Entgeltsätzen vor der Sozialagentur oder Krankenkassen für die wirtschaftlichen Planungen`,
       ],
     },
     {
-      organization: "Flipkart Internet Pvt Ltd",
-      title: `UI Engineer 1`,
-      date: "Jun 2021 - Nov 2022",
+      organization: "Malmberg Bioerdgastech GmbH",
+      title: `Kaufmännisch-technischer Assistent`,
+      date: "Januar 2015 - Mai 2015 (befristete Anstellung)",
       details: [
-        `As part of the Pricing and Promotion Team, worked on the migration of legacy projects from AngularJS to React-Redux, implementing a new design. I developed a React-based UI component library and utilities, now utilized across multiple projects.`,
-        `Other responsibilities include implementing new features, as well as patching and resolving bugs in existing features, while also addressing on-call issues promptly.`,
+        `Unterstützung administrativer und technischer Prozesse`,
+		`Pflege und Strukturierung technischer Dokumentationen`,
+		`Einführung/Weiterentwicklung von Dokumentationen nach DIN EN 82079`,
+		`Schnittstelle zwischen technischen Inhalten und kaufmännischen Anforderungen`,
       ],
     },
     {
-      organization: "Mobile Premier League",
-      title: `Software Development Engineer 1`,
-      date: "Apr 2020 - Jun 2021",
+      organization: "Fish Fever GmbH",
+      title: `Onlineshop-Manager`,
+      date: "Mai 2013 - Dezenber 2014 (betriebesbedingte Kündigung)",
       details: [
-        `Created feature-specific modules within the internal CRM to enhance team operations. Utilized ReactJS with SCSS and Redux for frontend development, alongside NodeJS-Express with protobuf for backend functionality.`,
-        `Developed a tailored Content Management System (CMS) for MPL's website, enabling seamless content and image updates across various pages in real-time.`,
-      ],
-    },
-    {
-      organization: "Wipro",
-      title: `Project Engineer`,
-      desc: `Project Engineer`,
-      date: "Aug 2018 - Apr 2020",
-      details: [
-        `Contributed to the development of a collaborative online
-        blueprint editor by translating the design mockups into reusable UI components
-        with industry-standard UX patterns using Angular with SCSS,
-        NgRx and Angular-Material and adding actions to those by
-        creating services to integrate backend REST-APIs.`,
-        `Resolved UI/UX issues by refactoring React components and re-structuring CSS/SCSS of an internal project with the codebase of ReactJS-Redux.`,
-      ],
-    },
-    {
-      organization: "Venuemonk",
-      title: "Full-Stack Developer Intern",
-      desc: `Full-Stack Developer intern at  <a target='_blank' rel='noreferrer' href='https://www.venuemonk.com/'>
-       Venuemonk </a> (<a target='_blank' rel='noreferrer' href='https://drive.google.com/open?id=1ch_9x9jCp_TJwKY43FG-pCr_zV9H2iun'> https://goo.gl/Uz1gaf</a>)`,
-      date: "Jan 2018 - Apr 2018",
-      details: [
-        `Designed and developed a Venue Onboarding platform to streamline and automate
-        the onboarding process of partner venues using React.js-Redux frontend and
-        Node.js-Express, MongoDB backend.`,
-      ],
-    },
-    {
-      organization: "Hasura",
-      title: "Product Development Intern (Remote)",
-      desc: `Product development intern at <a target='_blank' rel='noreferrer' href='https://hasura.io/'>
-       Hasura </a> (<a target='_blank' rel='noreferrer' href='https://goo.gl/8V3jBy'> https://goo.gl/8V3jBy</a>)`,
-      date: "Jun 2017 - Aug 2017",
-      details: [
-        `Created a web app using Node.js-Express with EJS server-side-templating on
-        Hasura's BaaS platform with features of group chat and a
-        sketch board for real-time collaboration with peers. The work was more focused
-        towards using auth and data APIs offered by the platform, deploying the app,
-        testing and reporting the bugs in it.`,
+        `Konzeption, Umsetzung und Pflege der Online-Präsenz`,
+		`Verantwortung für Struktur, Inhalte und Produktdarstellung`,
+		`Umsetzung von SEO-Maßnahmen zur Verbesserung der Sichtbarkeit`,
+		`Gestaltung von Screendesigns und Nutzerführung`,
+		`Zusammenarbeit mit externen Dienstleistern`,
       ],
     },
   ],
@@ -155,7 +121,7 @@ const profileData = {
       score: "71.00%",
     },
     {
-      alma: "Jwala Devi SVMIC, Prayagraj",
+      alma: "Masterstudium",
       duration: "2011 - 2013",
       std: "Class XI-XII (PCM)",
       score: "89.80%",
