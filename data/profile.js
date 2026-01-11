@@ -128,16 +128,9 @@ const profileData = {
   ],
   certifications: [
     {
-      desc: `Mobile Web Specialist Nanodegree by Udacity.
-      (<a target='_blank' rel='noreferrer' href='https://confirm.udacity.com/RLMHXAWZ'>https://goo.gl/RGRzVn</a>)`,
-      date: "May - Nov 2018",
-    },
-    {
-      desc: `Introduction to Modern Application Development, a MOOC by <em> NPTEL (IIT Madras)
-      and Hasura</em>. Ranked at top 10 percentile among more than 2500 candidates.
-       (<a target='_blank' rel='noreferrer' href='https://nptel.ac.in/noc/E_Certificate/linkedin/noc17-cs06/NPTEL17CS0626270067AN.jpg'>
-       https://goo.gl/X3HEdR</a>)`,
-      date: "Jan - Mar 2017",
+      desc: `Qualitätsmanagement-Auditor QMA-TÜV.
+      (<a target='_blank' rel='noreferrer' href='https://www.tuvsud.com/de-de/store/akademie/seminare-management/qualitaetsmanagement/modulare-ausbildung/1111106'>https://www.tuvsud.com/de-de</a>)`,
+      date: "September - November 2014",
     },
   ],
   events: [],
