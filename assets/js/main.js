@@ -10,6 +10,9 @@ const setTitle = (data) => {
     .querySelector("#contactEmail")
     .setAttribute("href", `mailto:${data.about.contact.email}`);
   document.querySelector("#contactPhone").innerHTML = data.about.contact.phone;
+  document
+    .querySelector("#contactPhone")
+    .setAttribute("href", `tel:${data.about.contact.phone}`);
 };
 
 const setLinks = (links) => {
