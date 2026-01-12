@@ -2,7 +2,7 @@ const profileData = {
   title: "Lebenslauf",
   name: "Daniel Fechner",
   sub_title: "IT-Koordinator/Manager",
-  logoURL: "assets/images/",
+  logoURL: "assets/images/dp.jpg",
   about: {
     intro:
       "IT-Koordinator mit über 8 Jahren Berufserfahrung in der ganzheitlichen Betreuung einer IT-Landschaft im mittelständischen Unternehmen - Verantwortlich für IT-Infrastruktur, Warenwirtschaftssysteme und E-Commerce-Plattformen. Erfahrung in der Anforderungsanalyse, Projektleitung sowie in der Koordination externer IT-Partner. Starke analytische Fähigkeiten in der Fehleranalyse und Prozessoptimierung.",
@@ -35,7 +35,7 @@ const profileData = {
       value: "HTML, CSS3, PHP, SQL, JavaScript, JSON",
     },
     {
-      title: "Werkezuge & Plattformen",
+      title: "Werkzeuge & Plattformen",
       value:
         "Git, GitHub, Postman, Asana, Magento 1&2, WordPress",
     },
@@ -44,9 +44,9 @@ const profileData = {
       value: "Canvas API, Leaflet.js, D3.js, Chart.js, HighCharts",
     },*/
     {
-      title: "Weitere",
+      title: "Andere",
       value:
-        "Office Tools, Adobe Creativesuite, Uberall, Hubspot, Doofinder u.a.",
+        "Office Tools, Adobe Creativesuite, Online-Marketing Tools (Uberall, Hubspot, Doofinder u.w.)",
     },
   ],
   experiences: [
