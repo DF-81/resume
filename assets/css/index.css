@@ -110,7 +110,6 @@ strong {
   display: flex;
   align-items: center;  
   gap: 0.4rem;
-  border-bottom: 1px solid #f0f0f0;
 }
 
 .cat-indicator {
@@ -130,6 +129,11 @@ strong {
 .cat-def-body,
 .cat-skill-body {
   padding: 0.2rem 0px 0.7rem 1.7rem;
+}
+
+/* nur der Education-Block */
+#educationList {
+  width: 100%;
 }
 
 /* Lists */
@@ -422,9 +426,8 @@ strong {
   }
 
   .cat-list-body {
-    width: 100% !important; /* nimmt ganze Breite ein und erzwingt Umbruch */
-	display: block !important;
-	margin-top: 0.5rem; /* kleiner Abstand nach oben */
+    width: 100%; /*nimmt ganze Breite ein und erzwingt Umbruch*/
+	margin-top: 0.5rem; /*kleiner Abstand nach oben*/
 	padding: 2px 0 10px 0px;
   }
 
