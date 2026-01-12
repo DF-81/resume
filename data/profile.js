@@ -5,7 +5,7 @@ const profileData = {
   logoURL: "assets/images/",
   about: {
     intro:
-      "IT-Koordinator mit über 8 Jahren Berufserfahrung in der ganzheitlichen Betreuung einer IT-Landschaften im mittelständischen Unternehmen - Verantwortlich für IT-Infrastruktur, Warenwirtschaftssysteme und E-Commerce-Plattformen. Erfahrung in der Anforderungsanalyse, Projektleitung sowie in der Koordination externer IT-Partner. Starke analytische Fähigkeiten in der Fehleranalyse und Prozessoptimierung.",
+      "IT-Koordinator mit über 8 Jahren Berufserfahrung in der ganzheitlichen Betreuung einer IT-Landschaft im mittelständischen Unternehmen - Verantwortlich für IT-Infrastruktur, Warenwirtschaftssysteme und E-Commerce-Plattformen. Erfahrung in der Anforderungsanalyse, Projektleitung sowie in der Koordination externer IT-Partner. Starke analytische Fähigkeiten in der Fehleranalyse und Prozessoptimierung.",
     contact: {
       email: "kontakt@fechner-daniel.de",
       phone: "+4917647131606",
