@@ -294,6 +294,7 @@ strong {
   padding-left: 0.3rem !important;
   text-align: justify;
   list-style: circle;
+  margin-left: 0.6rem; /*Bullet+Text nach rechts*/
 }
 
 /* Überschrift = <li>, dessen Text mit ** beginnt und endet */
