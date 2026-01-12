@@ -65,7 +65,7 @@ const profileData = {
       `Erstellung des Lastenhefts und Abstimmung mit der Geschäftsleitung`,
       `Antrag Förderung, Budgetplanung, Steuerung und Begleitung bis zum Go-Live`,
 
-      `**Warenwirtschaft & ERP**`,
+      `**E-Commerce & Online-Shop**`,
       `Technische und organisatorische Verantwortung für den Online-Shop`,
       `Migration von Magento 1 auf Magento 2 in Zusammenarbeit mit externen Entwicklern`,
       `Anforderungsmanagement und Qualitätssicherung`,

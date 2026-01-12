@@ -296,6 +296,17 @@ strong {
   list-style: circle;
 }
 
+/* Überschrift = <li>, dessen Text mit ** beginnt und endet */
+  .expDet li[data-bold] {
+   list-style: none;          /* Bullet entfernen */
+   font-weight: 600;
+   margin-top: 0.8rem;
+   margin-bottom: 0.3rem;
+   color: #3173bb;
+   /* Bullet-Breite + linker Standard-Abstand rückgängig machen */
+   margin-left: -1.5rem;   /* je nach Einzug anpassen */
+  }
+
 /* Style override for individual sections */
 .about-section {
   display: flex;

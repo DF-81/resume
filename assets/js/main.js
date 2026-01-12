@@ -171,11 +171,22 @@ const setExperience = (experiences) => {
       const expDetails = document.createElement("ul");
       expDetails.className = "expDet";
       
-      exper.details.forEach((dText) => {
+     /* exper.details.forEach((dText) => {
         const detItem = document.createElement("li");
         detItem.innerHTML = dText;
         expDetails.appendChild(detItem);
-      });
+      });*/
+	  exper.details.forEach((dText) => {
+		const li = document.createElement('li');
+		const isHeading = /^\*\*(.+)\*\*$/.exec(dText.trim());
+		if (isHeading) {
+		li.textContent = isHeading[1];   // ** entfernen
+		li.setAttribute('data-bold', '');
+		} else {
+		li.innerHTML = dText.trim();
+		}		
+  expDetails.appendChild(li);
+	});
 
       expListItem.appendChild(expDetails);
     }
