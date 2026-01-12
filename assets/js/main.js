@@ -288,3 +288,6 @@ const setCatagoryHeader = (title) => {
   setCertification(profileData.certifications);
   // setEvents(profileData.events);
 })();
+
+// PDF-Download
+document.getElementById('download-pdf').addEventListener('click', () => window.print());
