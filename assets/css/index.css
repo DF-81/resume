@@ -422,12 +422,5 @@ strong {
     color: #444;
     padding: 4px 0;
   }
-  .subhead {
-  list-style: none;          /* kein Aufzählungszeichen */
-  font-weight: 600;
-  margin-top: 0.8rem;
-  margin-bottom: 0.3rem;
-  color: #3173bb;
-  }
 } 
 
