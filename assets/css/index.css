@@ -162,7 +162,7 @@ strong {
 .edu-duration,
 .project-duration {
   color: #666;
-  font-style: italic;
+  /*font-style: italic;*/
 }
 
 .edu-class-data {
@@ -277,9 +277,10 @@ strong {
 }
 
 .ach-duration {
+  margin-left: auto;
   color: #666;
-  font-style: italic;
-  width: 15%;
+  /*font-style: italic;
+  width: 15%;*/
   text-align: right;
 }
 
@@ -386,7 +387,9 @@ strong {
 
   .ach-item .ach-duration {
     width: auto;
-    text-align: left;
+    margin-left: auto;
+	text-align: right;
+	white-space: normal;
   }
 
   .edu-header {
