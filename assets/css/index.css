@@ -96,18 +96,11 @@ strong {
   padding-left: 1rem;
 }
 
-/*.info-row {
+.info-row {
   width: 100%;
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
-}*/
-
-.info-row {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;   /* Titel links, Button rechts */
 }
 
 .cat-header {
@@ -446,26 +439,3 @@ strong {
   }
 } 
 
-/*.pdf-wrapper {
-  width: 100%;
-  margin-top: 0.6rem;
-  display: flex;          //Button links ausrichten, aber dann muss flex-start hinterlegt werden
-  justify-content: flex-end; //Button rechts ausrichten
-}*/
-.pdf-wrapper {
-  margin-left: auto;   /* schiebt Button ans rechte Ende */
-}
-.pdf-btn {
-  padding: 0.3rem 0.8rem;
-  font-size: 0.9rem;
-}
-
-@page {
-  size: A4;
-  margin: 15mm;
-}
-@media print {
-  body { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
-  #download-pdf, /*Download-Button*/
-  .lang-btn { display: none; }   /* Buttons ausblenden */
-}
