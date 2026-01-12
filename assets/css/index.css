@@ -96,26 +96,20 @@ strong {
   padding-left: 1rem;
 }
 
-/*.info-row {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-}*/
-
 .info-row {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: space-between;   /* Titel links, Button rechts */
+  gap: 0.5rem;
 }
 
 .cat-header {
-  padding: 0.5rem 0;
+  /*padding: 0.5rem 0;
   font-size: 1.1rem;
+  border-bottom: 1px solid #f0f0f0;*/
   display: flex;
-  align-items: center;
-  border-bottom: 1px solid #f0f0f0;
+  align-items: center;  
+  gap: 0.4rem;
 }
 
 .cat-indicator {
@@ -135,6 +129,11 @@ strong {
 .cat-def-body,
 .cat-skill-body {
   padding: 0.2rem 0px 0.7rem 1.7rem;
+}
+
+/* nur der Education-Block */
+#educationList {
+  width: 100%;
 }
 
 /* Lists */
@@ -427,7 +426,9 @@ strong {
   }
 
   .cat-list-body {
-    padding: 2px 0 10px 0px;
+    width: 100%; /*nimmt ganze Breite ein und erzwingt Umbruch*/
+	margin-top: 0.5rem; /*kleiner Abstand nach oben*/
+	padding: 2px 0 10px 0px;
   }
 
   .cat-skill-body-gen {
