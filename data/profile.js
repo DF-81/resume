@@ -106,7 +106,6 @@ const profileData = {
 		`Verantwortung für Struktur, Inhalte und Produktdarstellung`,
 		`Umsetzung von SEO-Maßnahmen zur Verbesserung der Sichtbarkeit`,
 		`Gestaltung von Screendesigns und Nutzerführung`,
-		`Zusammenarbeit mit externen Dienstleistern`,
       ],
     },
   ],
