@@ -177,7 +177,7 @@ strong {
 
 .edu-score {
   margin-left: 20px;
-  padding: 2px 8px;
+  padding: 1px 4px;
   background-color: #3173bb;
   color: #fff;
   border-radius: 20px;
@@ -337,7 +337,7 @@ strong {
   text-align: justify;
 }
 
-/* Media wuery for mobile view */
+/* Media query for mobile view */
 @media screen and (max-width: 500px) {
   .profile-logo {
     margin: 0 auto;
@@ -398,7 +398,8 @@ strong {
   }
 
   .edu-score {
-    margin-left: 0;
+    margin-left: 0.5rem;;
+	white-space: nowrap;
   }
 
   .contact-section {
@@ -437,6 +438,14 @@ strong {
   .project-desc {
     color: #444;
     padding: 4px 0;
+  }
+ 
+  .cat-list,
+  .cat-list-item,
+  #aboutIntro,
+  .project-desc,
+  .expDet > li {
+    text-align: left !important;
   }
 } 
 
