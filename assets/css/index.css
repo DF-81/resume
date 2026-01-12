@@ -439,3 +439,24 @@ strong {
   }
 } 
 
+.pdf-wrapper {
+  width: 100%;
+  margin-top: 0.6rem;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.pdf-btn {
+  padding: 0.3rem 0.8rem;
+  font-size: 0.9rem;
+}
+
+@page {
+  size: A4;
+  margin: 15mm;
+}
+@media print {
+  body { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  #download-pdf, /*Download-Button*/
+  .lang-btn { display: none; }   /* Buttons ausblenden */
+}
