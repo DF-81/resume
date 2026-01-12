@@ -64,13 +64,14 @@ const profileData = {
       `Projektleitung bei der Einführung eines neuen Warenwirtschaftssystems`,
       `Erstellung des Lastenhefts und Abstimmung mit der Geschäftsleitung`,
       `Antrag Förderung, Budgetplanung, Steuerung und Begleitung bis zum Go-Live`,
+	  `Optimierung Datenbestand sowie kontinuierliche Datenpflege nach Vorgaben`,
 
       `**E-Commerce & Online-Shop**`,
       `Technische und organisatorische Verantwortung für den Online-Shop`,
       `Migration von Magento 1 auf Magento 2 in Zusammenarbeit mit externen Entwicklern`,
       `Anforderungsmanagement und Qualitätssicherung`,
 	  `Erstellung von Kalkulationsunterlagen unter Berücksichtigung des Deckungsbeitrages`,
-	  `Optimierung Datenbestand sowie kontinuierliche Datenpflege nach Vorgaben`,
+	  `Kontinuierliche Optimierung der Usability`,
 	 ],
     },
     {
