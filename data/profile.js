@@ -55,24 +55,22 @@ const profileData = {
       title: "IT-Koordinator/Manager",
       date: "Juli 2017 - Heute",
       details: [
-      `<b>IT-Infrastruktur & Systemlandschaft</b>
-      - Ganzheitliche Betreuung und Weiterentwicklung der IT-Infrastruktur
-      - Fehleranalyse und eigenständige Störungsbehebung
-      - Koordination externer IT-Dienstleister (Hosting, Entwicklung, SEM)
-      `,
+      `"IT-Infrastruktur & Systemlandschaft"`,
+      `Ganzheitliche Betreuung und Weiterentwicklung der IT-Infrastruktur`,
+      `Fehleranalyse und eigenständige Störungsbehebung`,
+      `Koordination externer IT-Dienstleister (Hosting, Entwicklung, SEM)`,
 
-      `<b>Warenwirtschaft & ERP</b>
-      - Projektleitung bei der Einführung eines neuen Warenwirtschaftssystems
-      - Erstellung des Lastenhefts und Abstimmung mit der Geschäftsleitung
-      - Antrag Förderung, Budgetplanung, Steuerung und Begleitung bis zum Go-Live
-      `,
+      `"Warenwirtschaft & ERP"`,
+      `Projektleitung bei der Einführung eines neuen Warenwirtschaftssystems`,
+      `Erstellung des Lastenhefts und Abstimmung mit der Geschäftsleitung`,
+      `Antrag Förderung, Budgetplanung, Steuerung und Begleitung bis zum Go-Live`,
 
-      `<b>Warenwirtschaft & ERP</b>
-      - Technische und organisatorische Verantwortung für den Online-Shop
-      - Migration von Magento 1 auf Magento 2 in Zusammenarbeit mit externen Entwicklern
-      - Anforderungsmanagement und Qualitätssicherung
-	  - Erstellung von Kalkulationsunterlagen unter Berücksichtigung des Deckungsbeitrages
-	  - Optimierung Datenbestand sowie kontinuierliche Datenpflege nach Vorgaben`,
+      `"Warenwirtschaft & ERP"`,
+      `Technische und organisatorische Verantwortung für den Online-Shop`,
+      `Migration von Magento 1 auf Magento 2 in Zusammenarbeit mit externen Entwicklern`,
+      `Anforderungsmanagement und Qualitätssicherung`,
+	  `Erstellung von Kalkulationsunterlagen unter Berücksichtigung des Deckungsbeitrages`,
+	  `Optimierung Datenbestand sowie kontinuierliche Datenpflege nach Vorgaben`,
 	 ],
     },
     {
