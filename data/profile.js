@@ -8,7 +8,7 @@ const profileData = {
       "IT-Koordinator mit über 8 Jahren Berufserfahrung in der ganzheitlichen Betreuung einer IT-Landschaft im mittelständischen Unternehmen - Verantwortlich für IT-Infrastruktur, Warenwirtschaftssysteme und E-Commerce-Plattformen. Erfahrung in der Anforderungsanalyse, Projektleitung sowie in der Koordination externer IT-Partner. Starke analytische Fähigkeiten in der Fehleranalyse und Prozessoptimierung.",
     contact: {
       email: "kontakt@fechner-daniel.de",
-      phone: "+4917647131606",
+      phone: "+49-17647131606",
       address: "Pfarrgasse 14, 06268 Obhausen",
     },
   },
@@ -31,11 +31,11 @@ const profileData = {
   ],
   skills: [
     {
-      title: "Languages & Standards",
+      title: "Sprachen & Standards",
       value: "HTML, CSS3, PHP, SQL, JavaScript, JSON",
     },
     {
-      title: "Tools & Platforms",
+      title: "Werkezuge & Plattformen",
       value:
         "Git, GitHub, Postman, Asana, Magento 1&2, WordPress",
     },
@@ -44,7 +44,7 @@ const profileData = {
       value: "Canvas API, Leaflet.js, D3.js, Chart.js, HighCharts",
     },*/
     {
-      title: "Others",
+      title: "Weitere",
       value:
         "Office Tools, Adobe Creativesuite, Uberall, Hubspot, Doofinder u.a.",
     },
