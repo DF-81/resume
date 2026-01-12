@@ -170,27 +170,12 @@ const setExperience = (experiences) => {
     if (exper.details) {
       const expDetails = document.createElement("ul");
       expDetails.className = "expDet";
-      let currentLi = null;          // li-Container für normale Punkte
+      
       exper.details.forEach((dText) => {
         const detItem = document.createElement("li");
         detItem.innerHTML = dText;
-          const isHeading = /^"([^"]+)"\s*$/.exec(dText.trim());
-          if (isHeading) {
-          // Überschrift als <li class="subhead">…</li>
-          const li = document.createElement('li');
-          li.className = 'subhead';
-          li.textContent = isHeading[1];
-          expDetails.appendChild(li);
-          currentLi = null;
-          return;
-        }
-          // normale Aufzählung
-          if (!currentLi) {
-          currentLi = document.createElement('li');
-          expDetails.appendChild(currentLi);
-        }
-        currentLi.innerHTML += (currentLi.innerHTML ? '<br>' : '') + dText.trim();
-        });
+        expDetails.appendChild(detItem);
+      });
 
       expListItem.appendChild(expDetails);
     }
