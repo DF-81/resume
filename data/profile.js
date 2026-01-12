@@ -32,7 +32,7 @@ const profileData = {
   skills: [
     {
       title: "Sprachen & Standards",
-      value: "HTML, CSS3, PHP, SQL, JavaScript, JSON",
+      value: "HTML, CSS, PHP, SQL, JavaScript, JSON",
     },
     {
       title: "Werkzeuge & Plattformen",
