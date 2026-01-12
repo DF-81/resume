@@ -109,6 +109,7 @@ strong {
   display: flex;
   align-items: center;
   border-bottom: 1px solid #f0f0f0;
+  width: 100%;
 }
 
 .cat-indicator {
@@ -446,9 +447,14 @@ strong {
   justify-content: flex-end;
 }
 
+.pdf-inline {
+  margin-left: auto;   /* schiebt Button ans rechte Ende */
+}
+
 .pdf-btn {
   padding: 0.3rem 0.8rem;
   font-size: 0.9rem;
+  white-space: nowrap;   /* verhindert Umbruch */
 }
 
 @page {
