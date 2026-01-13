@@ -1,5 +1,5 @@
 const profileData = {
-  title: "Lebenslauf",
+  title: "Kurzprofil",
   name: "Daniel Fechner",
   sub_title: "IT-Koordinator/Manager",
   logoURL: "assets/images/dp.jpg",
