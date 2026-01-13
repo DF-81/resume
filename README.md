@@ -1,12 +1,12 @@
 # Résumé 
 
 ### About
-It is my simple resume made with HTML, CSS, JS using JSON data.   
+This repository is a fork from https://github.com/imvpn22/resume and built with HTML, CSS, JS using JSON data.   
 Initially, the project was written with NodeJS architecture. [View Old Project](https://github.com/methusael13/resume-builder)
 
 HTML is used for making the initial block structure of the page with some simple data, CSS is used for giving some style to the page, and JS is used to create small UI components dynamically and fill the data into the page. All the data about details related to the user is stored as a JSON object in a JS file.
 
-View it in action https://imvpn22.github.io/resume/
+View it in action https://df-81.github.io/resume/
 
 ### Getting Started
 
