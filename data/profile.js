@@ -127,8 +127,13 @@ const profileData = {
   certifications: [
     {
       desc: `Qualitätsmanagement-Auditor QMA-TÜV.
-      (<a target='_blank' rel='noreferrer' href='https://www.tuvsud.com/de-de/store/akademie/seminare-management/qualitaetsmanagement/modulare-ausbildung/1111106'>https://www.tuvsud.com/de-de</a>)`,
+      (<a target='_blank' rel='noreferrer' href='https://www.tuvsud.com/de-de/store/akademie/seminare-management/qualitaetsmanagement/modulare-ausbildung/1111106'>Link zur TÜV SÜD Akademie</a>)`,
       date: "September - November 2014",
+    },
+	{
+      desc: `Usability-Projekt QM-Handbuch Firma TANNER.
+      (<a target='_blank' rel='noreferrer' href='https://www.tanner.de/'>Link zur Tanner GmbH</a>)`,
+      date: "WS 2011/2012",
     },
   ],
   events: [],
