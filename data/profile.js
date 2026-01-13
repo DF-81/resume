@@ -84,6 +84,7 @@ const profileData = {
         `Erstellung betriebswirtschaftlicher Auswertungen und Kennzahlen`,
 		`Soll-Ist-Analysen zur Budget- und Kostenkontrolle`,
 		`Erzeugung von Anträgen zur Unterstützung und Verhandlung bei Entgeltsätzen vor der Sozialagentur oder Krankenkassen für die wirtschaftlichen Planungen`,
+		`Anforderungsanalyse und Wirtschaftlichkeitsberechnung zur Einführung eines Dokumentenmanagementsystems`,
       ],
     },
     {
