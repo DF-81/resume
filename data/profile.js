@@ -115,7 +115,7 @@ const profileData = {
     {
       alma: "Masterstudium (M.A)",
       duration: "Oktober 2010 - April 2013",
-      std: "Technische Redaktion und Wissenskommuniktion",
+      std: "Technische Redaktion und Wissenskommunikation",
       score: "ECTS Grade A | 91-100%",
     },
     {
