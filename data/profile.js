@@ -36,8 +36,7 @@ const profileData = {
     },
     {
       title: "Werkzeuge & Plattformen",
-      value:
-        "Git, GitHub, Postman, Asana, Magento 1&2, WordPress",
+      value: "Git, GitHub, Postman, Asana, Magento 1&2, WordPress",
     },
     /*{
       title: "Maps & Visualization",
@@ -45,8 +44,11 @@ const profileData = {
     },*/
     {
       title: "Andere",
-      value:
-        "Office Tools, Adobe Creativesuite, Online-Marketing Tools (Uberall, Hubspot, Doofinder u.w.)",
+      value:"Office Tools, Adobe Creativesuite, Online-Marketing Tools (Google, Uberall, Hubspot, Doofinder u.a.)",
+    },
+	{
+      title: "Fremdsprachen",
+      value: "Englisch (Gut), Schwedisch (Grundkenntnisse)",
     },
   ],
   experiences: [
@@ -55,12 +57,12 @@ const profileData = {
       title: "IT-Koordinator/Manager",
       date: "Juli 2017 - Heute",
       details: [
-      `**IT-Infrastruktur & Systemlandschaft**`,
+      `**IT-Infrastruktur**`,
       `Ganzheitliche Betreuung und Weiterentwicklung der IT-Infrastruktur`,
       `Fehleranalyse und eigenständige Störungsbehebung`,
       `Koordination externer IT-Dienstleister (Hosting, Entwicklung, SEM)`,
 
-      `**Warenwirtschaft & ERP**`,
+      `**Warenwirtschaft**`,
       `Projektleitung bei der Einführung eines neuen Warenwirtschaftssystems`,
       `Erstellung des Lastenhefts und Abstimmung mit der Geschäftsleitung`,
       `Antrag Förderung, Budgetplanung, Steuerung und Begleitung bis zum Go-Live`,
