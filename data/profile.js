@@ -62,7 +62,7 @@ const profileData = {
       `Fehleranalyse und eigenständige Störungsbehebung`,
       `Koordination externer IT-Dienstleister (Hosting, Entwicklung, SEM)`,
 
-      `**Warenwirtschaft**`,
+      `**Warenwirtschaft & Online-Auftragsverwaltung**`,
       `Projektleitung bei der Einführung eines neuen Warenwirtschaftssystems`,
       `Erstellung des Lastenhefts und Abstimmung mit der Geschäftsleitung`,
       `Antrag Förderung, Budgetplanung, Steuerung und Begleitung bis zum Go-Live`,
