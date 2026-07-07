@@ -128,7 +128,12 @@ const profileData = {
     },
   ],
   certifications: [
-    {
+	  {
+      desc: `Software-Engineering Python.
+      (<a target='_blank' rel='noreferrer' href='https://coding-academy.com/'>Link zur Munich Coding Academy</a>)`,
+      date: "seit Mai 2026",
+    },    	
+	  {
       desc: `Qualitätsmanagement-Auditor QMA-TÜV.
       (<a target='_blank' rel='noreferrer' href='https://www.tuvsud.com/de-de/store/akademie/seminare-management/qualitaetsmanagement/modulare-ausbildung/1111106'>Link zur TÜV SÜD Akademie</a>)`,
       date: "September - November 2014",
