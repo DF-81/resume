@@ -55,7 +55,7 @@ const profileData = {
     {
       organization: "Holzboden-Direkt.de e.K.",
       title: "IT-Koordinator/Manager",
-      date: "Juli 2017 - Heute",
+      date: "Juli 2017 - März 2026",
       details: [
       `**IT-Infrastruktur**`,
       `Ganzheitliche Betreuung und Weiterentwicklung der IT-Infrastruktur`,
